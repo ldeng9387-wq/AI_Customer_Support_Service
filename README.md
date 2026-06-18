@@ -1,6 +1,9 @@
 # AI Customer Support Dashboard (企业级 AI 知识库与智能客服后台)
 
 > 面向中小企业的“传统客服 + AI 增强”业务系统样板。将企业私有知识接入 RAG 架构，提供从资料上传、后台异步向量化到前端无感状态刷新的完整 SaaS。
+>
+> 点击观看项目演示视频 Video Link：
+> https://raw.githubusercontent.com/ldeng9387-wq/AI_Customer_Support_Service/refs/heads/main/ai_customer_service(1290-1080).mp4
 
 ## 1. 业务价值 (Business Value)
 
